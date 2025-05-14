@@ -4,7 +4,7 @@ import Videos from './Videos'
 
 const Content = () => {
   return (
-    <section className='flex p-4 justify-center items-center gap-4'>
+    <section className='flex contMedia p-4 justify-center items-center gap-4'>
         <Text />
         <Videos />
     </section>
